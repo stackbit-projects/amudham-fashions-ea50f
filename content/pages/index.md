@@ -54,7 +54,7 @@ sections:
     title: A new home interior for summer
     subtitle: from $149.99
     image: images/101.jpeg
-    background_image: images/101-a966f95b.jpeg
+    background_image: images/leaf-light-grey.svg
     cta:
       title: Discover
       url: /store
